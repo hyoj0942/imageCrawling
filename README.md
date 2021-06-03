@@ -8,3 +8,11 @@
 ### 1. 본인PC의 크롬 버전에 적합한 크롬 드라이버를 설치하십시오.
 
 ### 2. cmd > pip install -r requirements.txt
+
+### 3. Enter a search term for images to be downloaded after execution, and the number of images(*3) you want
+### 3. 실행 후 다운받을 이미지의 검색어, 원하는 이미지 수(* 3)를 입력하세요.
+
+
+
+## 실행화면
+<img width="80%" src="https://user-images.githubusercontent.com/50765163/120621487-e15d6700-c498-11eb-9f97-205305896fe1.gif"/>
